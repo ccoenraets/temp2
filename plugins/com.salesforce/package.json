@@ -1,0 +1,61 @@
+{
+  "_from": "git+https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin.git",
+  "_id": "SalesforceMobileSDK-CordovaPlugin@6.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-Lc46CK5YkqlL5Soyqq4ly9aROlw=",
+  "_location": "/SalesforceMobileSDK-CordovaPlugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin",
+    "rawSpec": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin",
+    "saveSpec": "git+https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin.git",
+    "fetchSpec": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin.git#a9d3ae7cb6e143ca67828c093ae03de091a8e725",
+  "_spec": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin",
+  "_where": "/Users/ccoenraets/Projects/test2",
+  "author": {
+    "name": "Bharath Hariharan",
+    "email": "bhariharan@salesforce.com"
+  },
+  "bugs": {
+    "url": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Wolfgang Mathurin",
+      "email": "wmathurin@salesforce.com"
+    }
+  ],
+  "deprecated": false,
+  "description": "Salesforce Mobile SDK Cordova Plugin Repository",
+  "homepage": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin",
+  "keywords": [
+    "mobilesdk",
+    "android",
+    "ios",
+    "cordova",
+    "salesforce",
+    "mobile",
+    "sdk"
+  ],
+  "licenses": [
+    {
+      "type": "Salesforce.com Mobile SDK License",
+      "url": "https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin/blob/master/LICENSE.md"
+    }
+  ],
+  "name": "SalesforceMobileSDK-CordovaPlugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forcedotcom/SalesforceMobileSDK-CordovaPlugin.git"
+  },
+  "version": "6.0.0"
+}
